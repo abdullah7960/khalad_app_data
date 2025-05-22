@@ -1,0 +1,4 @@
+{
+  "sunnah": {"version": 1},
+  "daily_challenges": {"version": 1}
+}

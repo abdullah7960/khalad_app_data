@@ -1,5 +1,6 @@
 {
   "sunnah": {"version": 2},
   "daily_challenges": {"version": 1},
-  "duas_for_namaz": {"version": 1}
+  "duas_for_namaz": {"version": 1},
+  "dynamic_challenges" : {"version": 1}
 }

@@ -5,8 +5,9 @@
   "dynamic_challenges" : {"version": 3},
   "hadith_of_the_day": {"version": 6},
   "duas": {"version": 1},
-  "reminders": {"version": 1}
+  "reminders": {"version": 2}
 }
+
 
 
 

@@ -4,8 +4,10 @@
   "duas_for_namaz": {"version": 1},
   "dynamic_challenges" : {"version": 3},
   "hadith_of_the_day": {"version": 6},
-  "duas": {"version": 1}
+  "duas": {"version": 1},
+  "reminders": {"version": 1}
 }
+
 
 
 

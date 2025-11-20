@@ -3,6 +3,7 @@
   "daily_challenges": {"version": 1},
   "duas_for_namaz": {"version": 1},
   "dynamic_challenges" : {"version": 3},
-  "hadith_of_the_day": {"version": 1},
+  "hadith_of_the_day": {"version": 2},
   "duas": {"version": 1}
 }
+
